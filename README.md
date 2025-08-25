@@ -2,7 +2,7 @@
 
 Learn Oracle Cloud Infrastructure (OCI) from scratch through structured notes, hands-on exercises, architecture diagrams, and links to free Oracle resources. This 21-day guide is inspired by similar cloud learning paths and focuses on practical DevOps practices.
 
-No prior experience required—just sign up for OCI's Free Tier (oracle.com/cloud/free) for hands-on practice. Each day includes notes, exercises, and diagrams in dedicated folders. Contribute your improvements via pull requests!
+No prior experience required—just sign up for OCI's Free Tier ([oracle.com/cloud/free](https://www.oracle.com/cloud/free/)) for hands-on practice. Each day includes notes, exercises, and diagrams in dedicated folders. Contribute your improvements via pull requests!
 
 ### Why OCI?
 - OCI offers high-performance compute (e.g., bare metal), always-free resources, and strong security features.
@@ -10,7 +10,7 @@ No prior experience required—just sign up for OCI's Free Tier (oracle.com/clou
 
 ### Getting Started
 1. Sign up for OCI Free Tier: Get $300 credit and always-free resources like 2 VMs and an Autonomous Database.
-2. Install OCI CLI: Follow docs.oracle.com/en-us/iaas/Content/API/Concepts/cliconcepts.htm.
+2. Install OCI CLI: Follow [docs.oracle.com/en-us/iaas/Content/API/Concepts/cliconcepts.htm](https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/cliinstall.htm).
 3. Join the community: Share your progress on LinkedIn or Reddit (e.g., r/OracleCloud).
 
 ## Day 1: Introduction to Cloud and OCI
@@ -142,9 +142,9 @@ No prior experience required—just sign up for OCI's Free Tier (oracle.com/clou
 - [Folder: day-21](./day-21)
 
 ### Additional Resources
-- Oracle University Free Courses: learn.oracle.com (L100/L200/L300 levels).
-- OCI Docs: docs.oracle.com/en-us/iaas.
-- Oracle Learning YouTube: youtube.com/@OracleLearning.
+- Oracle University Free Courses: [learn.oracle.com](https://www.oracle.com/education/training/) (L100/L200/L300 levels).
+- OCI Docs: [docs.oracle.com/en-us/iaas](https://docs.oracle.com/en-us/iaas/Content/home.htm).
+- Oracle Learning YouTube: [youtube.com/@OracleLearning](https://www.youtube.com/@OracleLearning).
 - Contribute: Add your notes, diagrams, or fixes!
 
 About: Community-driven OCI learning path. Fork and improve!
